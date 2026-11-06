@@ -1,7 +1,7 @@
 # Football Analytics Learning Project
 
 ## Goal
-Learn how modern football analytics works by building visualizations from StatsBomb Open Data. The user is a non-technical builder: the point is understanding the football, not just owning a dashboard.
+Learn how modern football analytics works by building visualizations from StatsBomb Open Data. The point is understanding the football, not just owning a dashboard.
 
 ## Rules (follow always)
 1. One question per chart. State the football question first (e.g. "Why did team X lose despite more shots?"), then build the chart that answers it.
